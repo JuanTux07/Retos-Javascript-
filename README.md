@@ -14,3 +14,7 @@ https://jsfiddle.net/Tania1507/3pcyLvmc/
 Pares e impares 
 
 https://jsfiddle.net/Tania1507/od6245zt/
+
+Array
+
+https://jsfiddle.net/Tania1507/rhnhz92p/
