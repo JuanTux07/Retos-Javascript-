@@ -8,4 +8,9 @@ Numeros pares de 1 a 1000
 https://jsfiddle.net/Tania1507/ky80fbpz/2/
 
 Secuencia de Fibonacci 
+
 https://jsfiddle.net/Tania1507/3pcyLvmc/
+
+Pares e impares 
+
+https://jsfiddle.net/Tania1507/od6245zt/
