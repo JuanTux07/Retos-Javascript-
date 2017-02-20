@@ -22,3 +22,7 @@ https://jsfiddle.net/Tania1507/rhnhz92p/
 Palindromo 
 
 https://jsfiddle.net/Tania1507/juxywre5/
+
+Organizar array 
+
+https://jsfiddle.net/Tania1507/px6my53v/
