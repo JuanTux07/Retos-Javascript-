@@ -18,3 +18,7 @@ https://jsfiddle.net/Tania1507/od6245zt/
 Array
 
 https://jsfiddle.net/Tania1507/rhnhz92p/
+
+Palindromo 
+
+https://jsfiddle.net/Tania1507/juxywre5/
