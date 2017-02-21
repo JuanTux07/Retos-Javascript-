@@ -27,6 +27,10 @@ Organizar array
 
 https://jsfiddle.net/Tania1507/px6my53v/
 
-Ancho y alto de un div
+Ancho y alto de un DIV
 
 https://jsfiddle.net/Tania1507/xvLq41ue/
+
+Ancho y alto de varios DIV 
+
+https://jsfiddle.net/Tania1507/56Lxn4x7/
