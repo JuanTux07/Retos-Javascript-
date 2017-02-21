@@ -28,4 +28,5 @@ Organizar array
 https://jsfiddle.net/Tania1507/px6my53v/
 
 Ancho y alto de un div
+
 https://jsfiddle.net/Tania1507/xvLq41ue/
