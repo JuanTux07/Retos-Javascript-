@@ -34,3 +34,8 @@ https://jsfiddle.net/Tania1507/xvLq41ue/
 Ancho y alto de varios DIV 
 
 https://jsfiddle.net/Tania1507/56Lxn4x7/
+
+Crear cajas
+
+https://jsfiddle.net/Tania1507/qvu2gkdm/
+
