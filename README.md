@@ -39,3 +39,6 @@ Crear cajas
 
 https://jsfiddle.net/Tania1507/qvu2gkdm/
 
+Cajas con colores sin repetir 
+
+https://jsfiddle.net/Tania1507/e2mmddjj/
