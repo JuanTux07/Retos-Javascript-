@@ -1,7 +1,7 @@
 # Retos-Javascript
-1. Print first 1000 numbers
+1. Print first 1000 numbers: 
 
-https://jsfiddle.net/Tania1507/ky80fbpz/1/
+1. https://jsfiddle.net/Tania1507/ky80fbpz/1/
 
 2. Print only pair numbers from 0 to 1000
 
