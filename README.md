@@ -37,3 +37,6 @@
 
 13. Via javascript, create a div and when i click it, should show the height and width inside the div: 
  https://jsfiddle.net/Tania1507/n443p66r/
+
+14. Create a grid with 100 divs with 100x100px, when i click one it should be highlighted with a border but only that div:
+ https://jsfiddle.net/Tania1507/jm8xtwf5/
