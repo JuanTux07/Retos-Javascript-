@@ -43,3 +43,6 @@
  
 15. Create a button, when i click the button it should create a div, when i click the div, it (the div) should be removed:
  https://jsfiddle.net/Tania1507/vx1qp0sc/
+
+16. Same as before, but now add a input where i can add a color and that is the background color of the created div:
+ https://jsfiddle.net/Tania1507/gLwohnt6/
