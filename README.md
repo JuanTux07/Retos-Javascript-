@@ -40,3 +40,6 @@
 
 14. Create a grid with 100 divs with 100x100px, when i click one it should be highlighted with a border but only that div:
  https://jsfiddle.net/Tania1507/jm8xtwf5/
+ 
+15. Create a button, when i click the button it should create a div, when i click the div, it (the div) should be removed:
+ https://jsfiddle.net/Tania1507/vx1qp0sc/
